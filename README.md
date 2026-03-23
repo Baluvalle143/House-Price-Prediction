@@ -18,3 +18,6 @@ This project predicts house prices using a real dataset based on area and number
 
 ## 🚀 Outcome
 Built a machine learning model that predicts house prices and evaluates performance.
+
+## 📊 Visualization
+![Graph](graph.png)
