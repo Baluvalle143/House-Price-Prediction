@@ -1,7 +1,7 @@
 # House Price Prediction using Machine Learning
 
 ## 📊 Overview
-This project predicts house prices based on area and number of bedrooms.
+This project predicts house prices using a real dataset based on area and number of bedrooms.
 
 ## 🔧 Tools Used
 - Python
@@ -11,5 +11,10 @@ This project predicts house prices based on area and number of bedrooms.
 ## ⚙️ Model
 - Linear Regression
 
+## 📈 Features
+- Data loading from CSV
+- Train-test split
+- Model evaluation using MAE
+
 ## 🚀 Outcome
-Built a simple ML model to predict house prices.
+Built a machine learning model that predicts house prices and evaluates performance.
